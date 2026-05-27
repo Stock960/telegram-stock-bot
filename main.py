@@ -7,8 +7,8 @@ from flask import Flask
 app = Flask(__name__)
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "PASTE_YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "PASTE_YOUR_TELEGRAM_CHAT_ID"
+BOT_TOKEN = "8834850530:AAGRZkPyK20JYmRsOYqTMrLBbwyLlMbP0Ec"
+CHAT_ID = "615256683"
 
 # 50 Stocks Database: {"TICKER": Stop_Loss_Price}
 # Add up to 50-100 tickers here. Use space-separated matching strings or suffixes (.NS for NSE India)
