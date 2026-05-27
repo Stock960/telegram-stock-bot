@@ -14,13 +14,7 @@ CHAT_ID = "PASTE_YOUR_TELEGRAM_CHAT_ID"
 # Add up to 50-100 tickers here. Use space-separated matching strings or suffixes (.NS for NSE India)
 ALERTS = {
     "SANDUMA": 255.00,
-    "TSLA": 160.00,
-    "NVDA": 800.00,
-    "MSFT": 390.00,
-    "AMZN": 170.00,
-    "RELIANCE.NS": 2400.00,
-    "TCS.NS": 3800.00,
-    "INFY.NS": 1400.00,
+   
     # Add your remaining stocks here seamlessly...
 }
 # =======================================================
